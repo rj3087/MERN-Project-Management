@@ -1,0 +1,5 @@
+.mentionSuggestionsEntryContainer {
+  padding-bottom: 1rem;
+  position: relative;
+  z-index: 9999;
+}
